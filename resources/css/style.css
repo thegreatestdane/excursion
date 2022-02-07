@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+}
+
+header h1 {
+    text-align: center;
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+header p {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 16px;
+    font-family: Verdana;
+    color: aquamarine;
+}
+
+main h2 {
+    color: white;
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+}
+
+main h4 {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+footer h2 {
+    color: white;
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 16px;
+    font-family: Verdana;
+    color: aquamarine;
+}
+
+footer h4 {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+    font-family: verdana;
+}
