@@ -42,6 +42,13 @@ footer h2 {
 }
 
 footer p {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+    font-family: verdana;
+}
+
+.download {
     text-align: center;
     text-decoration: underline;
     font-size: 16px;
@@ -49,9 +56,10 @@ footer p {
     color: aquamarine;
 }
 
-footer h4 {
-    text-align: right;
-    color: gray;
-    font-size: 21px;
-    font-family: verdana;
+img {
+    text-align: center;
+}
+
+.image {
+    text-align: center;
 }
